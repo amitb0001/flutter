@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       // home: HomePage(),
       debugShowCheckedModeBanner: true,
+
       themeMode: ThemeMode.light,
       theme: ThemeData(primarySwatch: Colors.deepPurple),
       // primaryTextTheme: GoogleFonts.lancelotTextTheme(),
